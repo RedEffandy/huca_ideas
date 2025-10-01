@@ -3,6 +3,8 @@
 The AI agent market represents an unprecedented opportunity for digital solutions companies. PwC's May 2025 AI Agent Survey shows that 88% of senior executives plan to increase AI-related budgets in the next 12 months specifically due to agentic AI, with 79% already adopting AI agents in their companies. Gartner's 2025 Hype Cycle for Artificial Intelligence identifies AI agents as one of the two fastest-advancing technologies this year. The global AI agent market is experiencing explosive growth, with adoption accelerating across all business sectors.
 This report identifies 10 high-potential AI agent products with exceptional UX design opportunities, backed by market research and grounded in emerging design principles for agentic systems.
 
+---
+
 ## 1. Intelligent Customer Support Platform
 
 ### The Problem:
